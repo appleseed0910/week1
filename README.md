@@ -68,13 +68,13 @@ However, I think this would disturb if I put any elements inside tw-sidebar. I m
 <br>So,I tried optionB, stored the music file in the root directory with the story html file aside. Then inserted audio through simple html tag "&lang;audio src="light-rian.mp3" autopaly>&lang;/audio>".
 <br>It works. However, as the Twine wiki said, relative links don't work inside Twine. So, for this way, it's necessary to revise the original code before we package the story.
 <br>https://freesound.org/people/babusrelaxtv/sounds/344430/
-<br>Here is the source of the rainy sound, it's in CC field.
+<br>Here is the source of the rainy sound, it's in CC field.</li>
   
   <br><li><b>Adjust the entire layout</b>
   <br>Through editing the internal CSS sheet, I adjusted the layout of the main text block on each passage. (It's easy once figured out that they are controlled by the same selectors 'tw-passage'. I also recovered the tw-sidebar elment. I think the default property of sidebar is significant if I want to put anything such as menu on all the pages. 
   <br>Instead, I set the display property of tw-icon as none which could stop the default arrow icons appearing. I've considered that if I want to create some icons, I guess I may try to write a new elment to arrange them.
   <br>https://furkleindustries.com/fictions/twine/twine2_resources/twine2_CSS_tutorial/
-  <br>The way I use for layout gives enough margin visually, but it also takes space that I want to use for pictures. I may need return back once I done the preparation of pictures.
+  <br>The way I use for layout gives enough margin visually, but it also takes space that I want to use for pictures. I may need return back once I done the preparation of pictures.</li>
   
   
   <br><li><b>Give 'Bookmark' a specific style</b>
