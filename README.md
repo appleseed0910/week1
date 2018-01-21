@@ -6,6 +6,7 @@ This repository contains:
 
 <ul>
   <li>Updated Game file(.html page)</li>
+  <li>Media files(sound, img)</li>
  
 <li>Supplementary docmentations:<ol>
 <li>Inquiry</li>
