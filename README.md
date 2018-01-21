@@ -42,7 +42,7 @@ Here are some tutorials and solutions I found for each inquiry.
 <br>Since Twine uses CSS style sheet, for default story mode, we could set up the 'display' property of tw-sidebar as 'none'.
 However, I think this would disturb if I put any elements inside tw-sidebar. I may need to figure out other solutions if needed.</li>
 
-<br><li><b>Add a Start page</b>
+<li><b>Add a Start page</b>
 <br>This one is comparatively easy, I added a new passage and set it as the Start Passage.</li>
 
 <li><b>Add "Save" and "Continue"</b>
