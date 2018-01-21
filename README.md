@@ -30,6 +30,8 @@ Customize my Twine story in different aspects. It contains:
   <li>Add a "Start" Page</li>
   <li>Add "Save" and "Continue" functions</li>
   <li>Add background sound effect</li>
+  <li>Adjust the entire layout</li>
+  <li>Add title imgae on the Start Page</li>
   </ul>
   
 <h3>ResearchPlan</h3>
