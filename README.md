@@ -28,6 +28,7 @@ Customize my Twine story in different aspects. It contains:
   <li>Remove the "Back" button</li>
   <li>Add a "Start" Page</li>
   <li>Add "Save" and "Continue" functions</li>
+  <li>Add background sound effect</li>
   </ul>
   
 <h3>ResearchPlan</h3>
@@ -53,6 +54,18 @@ However, I think this would disturb if I put any elements inside tw-sidebar. I m
 <br>https://www.youtube.com/watch?v=4YDeJ36diwc
 <br>https://twinery.org/forum/discussion/4898/save-load-game-in-2-0-and-harlowe
   </li>
+<br><li><b>Add Background Music</b>
+Since the story happens in a rainy night. I tried to add background music effect. But it terms out it's very handful to embed multi media in Twine(because we cannot write other type of file into a single html page! fair..)(I miss inkdML)
+<br>https://twinery.org/wiki/twine2:add_an_image_movie_sound_effect_or_music
+<br>https://www.youtube.com/watch?v=rkWkTJtK2dI&t=36s
+<br>https://www.youtube.com/watch?v=aBG8Z-Lvfd4
+<br>https://www.reddit.com/r/twinegames/comments/3lhh5a/background_music_in_harlowe/
+Here are some links that I've read for optional solutions. Technically, due to the limitations of Twine itself, it's hard to insert images or sound directly. We could use external link point to these files, but it's rare and sometimes illegal. I don't think this is a good choice?
+<br>So,I tried optionB, stored the music file in the root directory with the story html file aside. Then inserted audio through simple html tag "&lang;audio src="light-rian.mp3" autopaly>&lang;/audio>".
+<br>It works. However, as the Twine wiki said, relative links don't work inside Twine. So, for this way, it's necessary to revise the original code before we package the story.
+
+  
+  
   </ol>
 
 <h3>Expectation</h3>
