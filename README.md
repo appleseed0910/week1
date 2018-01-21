@@ -26,13 +26,7 @@ Based on previous project <a href="https://github.com/appleseed0910/Hello-There"
 <h3>Inquiry</h3>
 Customize my Twine story in different aspects. It contains:
 <ul style="p{line-height:90%;}">
-  <li>Remove the "Back" button(100%) </li>
-  <li>Add a "Start" Page(100%) </li>
-  <li>Add "Save" and "Continue" functions(100%) </li>
-  <li>Add background sound effect(90%) </li>
-  <li>Adjust the entire layout(75%) </li>
-  <li>Give 'Bookmark' a specific style(65%) </li>
-  <li>Add title imgae on the Start Page </li>
+  <li>Remove the "Back" button(100%)</li><li>Add a "Start" Page(100%)</li><li>Add "Save" and "Continue" functions(100%)</li><li>Add background sound effect(90%)</li><li>Adjust the entire layout(75%)</li><li>Give 'Bookmark' a specific style(65%)</li><li>Add title imgae on the Start Page </li>
   </ul>
   
 <h3>ResearchPlan</h3>
