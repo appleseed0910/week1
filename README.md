@@ -26,13 +26,13 @@ Based on previous project <a href="https://github.com/appleseed0910/Hello-There"
 <h3>Inquiry</h3>
 Customize my Twine story in different aspects. It contains:
 <ul>
-  <li>Remove the "Back" button</li>
-  <li>Add a "Start" Page</li>
-  <li>Add "Save" and "Continue" functions</li>
-  <li>Add background sound effect</li>
-  <li>Adjust the entire layout</li>
-  <li>Give 'Bookmark' a specific style</li>
-  <li>Add title imgae on the Start Page</li>
+  <li>Remove the "Back" button   100%</li>
+  <li>Add a "Start" Page   100%</li>
+  <li>Add "Save" and "Continue" functions   100%</li>
+  <li>Add background sound effect   100%</li>
+  <li>Adjust the entire layout   75%</li>
+  <li>Give 'Bookmark' a specific style   65%</li>
+  <li>Add title imgae on the Start Page   </li>
   </ul>
   
 <h3>ResearchPlan</h3>
@@ -78,9 +78,23 @@ However, I think this would disturb if I put any elements inside tw-sidebar. I m
   
   
    <br><li><b>Give 'Bookmark' a specific style</b>
-  <br>Firstly, I created new Bookmark saving slots on
-
-  
+  <br>Firstly, I created new Bookmark saving slots on N04, N16, N20, N75, N27, N09, N12, N34, N45, N88.
+  <br>http://twinery.org/questions/196/combining-multiple-css-selectors
+  <br>https://twinery.org/forum/discussion/8051/sugarcube-2-how-to-give-img-an-id-or-class
+<br>https://twinery.org/wiki/syntax#inline_styling
+  <br>This one trips me up. After I finished adding 'Bookmark' syntax to the nodes I mentioned in Twine, I published the html page and used Brackets to open it.
+  <br>I tried to create a new html tag for the 'Bookmark', I added a div tag and give it a new class attribute 'bookmark', then went to the style sheet part, wrote a line of ( tw-passagedata div .bookmark{ some css code}) but it doesn't work at all.
+  <br>I think there is some functions from original Twine automatically overwrites any extra formatting setting of all the links/hooks.
+  <br>https://twine2.neocities.org/1.html#macro_css
+  <br>Second try, I searched the Harlowe documntation for some solutions, there are some ways that could change text style using inline code. Even though it's not quite efficient, because I need to edit all 10 nodes separately.
+  <br>However, it works(limitedly)! Fair, let's do this.
+  <br>Change text-align property, done; 
+  <br>Change text-rotate, done;
+  <br>Change text-color, failed!!
+  <br>Through first two changes, I think I succeed in making 'Bookmark' stands out against other common links. But the most important thing always cannot be achieved. I want to change the text-color and text-font, somehow it will always overwritten by the default style.
+  <br>I'm thinking about moving the 'Bookmark' into sidebar, but not the priority for now.
+  <br>https://twinery.org/forum/discussion/8225/how-do-i-add-buttons-to-the-sidebar-in-harlowe-and-twine-2
+  <br>Mark a link for the next step.
   
   </ol>
 
