@@ -78,7 +78,7 @@ However, I think this would disturb if I put any elements inside tw-sidebar. I m
   
   
    <br><li><b>Give 'Bookmark' a specific style</b>
-  Firstly, I created new Bookmark saving slots on
+  <br>Firstly, I created new Bookmark saving slots on
 
   
   
