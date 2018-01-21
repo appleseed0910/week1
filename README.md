@@ -64,6 +64,8 @@ However, I think this would disturb if I put any elements inside tw-sidebar. I m
 <br>Here are some links that I've read for optional solutions. Technically, due to the limitations of Twine itself, it's hard to insert images or sound directly. We could use external link point to these files, but it's rare and sometimes illegal. I don't think this is a good choice?
 <br>So,I tried optionB, stored the music file in the root directory with the story html file aside. Then inserted audio through simple html tag "&lang;audio src="light-rian.mp3" autopaly>&lang;/audio>".
 <br>It works. However, as the Twine wiki said, relative links don't work inside Twine. So, for this way, it's necessary to revise the original code before we package the story.
+<br>https://freesound.org/people/babusrelaxtv/sounds/344430/
+<br>Here is the source of the rainy sound, it's in CC field.
 
   
   
