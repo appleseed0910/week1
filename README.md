@@ -33,7 +33,7 @@ Search online tutorials, and embed the revision into the project, test.
 
 <h3>Solution</h3>
 Here are some tutorials and solutions I found for each inquiry.
-<b>Remove the "Back" button</b>
+<br><b>Remove the "Back" button</b>
 
 <h3>Expectation</h3>
 Here are some potential inquiries for the next week.
