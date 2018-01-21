@@ -19,7 +19,7 @@ This repository contains:
 Based on previous project <a href="https://github.com/appleseed0910/Hello-There">"HelloThere"</a> (an interactive fiction made by Twine2.0)
 
 
-<hr>
+<br>
 <h2>Supplementary Documents</h2>
 <br>
 <h3>Inquiry</h3>
