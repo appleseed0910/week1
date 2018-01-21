@@ -34,6 +34,9 @@ Search online tutorials, and embed the revision into the project, test.
 <h3>Solution</h3>
 Here are some tutorials and solutions I found for each inquiry.
 <br><b>Remove the "Back" button</b>
+<br>https://twinery.org/forum/discussion/2931/remove-back-option-in-2-0
+<br>Since Twine uses CSS style sheet, for default story mode, we could set up the 'display' property of tw-sidebar as 'none'.
+However, I think this would disturb if I put any elements inside tw-sidebar. I may need to figure out other solutions if needed.
 
 <h3>Expectation</h3>
 Here are some potential inquiries for the next week.
