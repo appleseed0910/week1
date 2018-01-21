@@ -94,7 +94,7 @@ However, I think this would disturb if I put any elements inside tw-sidebar. I m
   <br>Through first two changes, I think I succeed in making 'Bookmark' stands out against other common links. But the most important thing always cannot be achieved. I want to change the text-color and text-font, somehow it will always overwritten by the default style.
   <br>I'm thinking about moving the 'Bookmark' into sidebar, but not the priority for now.
   <br>https://twinery.org/forum/discussion/8225/how-do-i-add-buttons-to-the-sidebar-in-harlowe-and-twine-2
-  <br>Mark a link for the next step.
+  <br>Mark a link for the next step.</li>
   
   </ol>
 
