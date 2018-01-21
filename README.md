@@ -26,12 +26,12 @@ Based on previous project <a href="https://github.com/appleseed0910/Hello-There"
 <h3>Inquiry</h3>
 Customize my Twine story in different aspects. It contains:
 <ul>
-  <li>Remove the "Back" button</li>
-  <li>Add a "Start" Page</li>
-  <li>Add "Save" and "Continue" functions</li>
-  <li>Add background sound effect</li>
-  <li>Adjust the entire layout</li>
-  <li>Give 'Bookmark' a specific style</li>
+  <li>Remove the "Back" button(100%)</li>
+  <li>Add a "Start" Page(100%)</li>
+  <li>Add "Save" and "Continue" functions(100%)</li>
+  <li>Add background sound effect(90%)</li>
+  <li>Adjust the entire layout(75%)</li>
+  <li>Give 'Bookmark' a specific style(65%)</li>
   <li>Add title imgae on the Start Page</li>
   </ul>
   
@@ -77,7 +77,7 @@ However, I think this would disturb if I put any elements inside tw-sidebar. I m
   <br>The way I use for layout gives enough margin visually, but it also takes space that I want to use for pictures. I may need return back once I done the preparation of pictures.
   
   
-   <br><li><b>Give 'Bookmark' a specific style</b>
+  <br><li><b>Give 'Bookmark' a specific style</b>
   <br>Firstly, I created new Bookmark saving slots on N04, N16, N20, N75, N27, N09, N12, N34, N45, N88.
   <br>http://twinery.org/questions/196/combining-multiple-css-selectors
   <br>https://twinery.org/forum/discussion/8051/sugarcube-2-how-to-give-img-an-id-or-class
