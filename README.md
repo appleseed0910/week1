@@ -55,7 +55,7 @@ However, I think this would disturb if I put any elements inside tw-sidebar. I m
 <br>https://twinery.org/forum/discussion/4898/save-load-game-in-2-0-and-harlowe
   </li>
 <br><li><b>Add Background Music</b>
-Since the story happens in a rainy night. I tried to add background music effect. But it terms out it's very handful to embed multi media in Twine(because we cannot write other type of file into a single html page! fair..)(I miss inkdML)
+<br>Since the story happens in a rainy night. I tried to add background music effect. But it terms out it's very handful to embed multi media in Twine(because we cannot write other type of file into a single html page! fair..)(I miss inkdML)
 <br>https://twinery.org/wiki/twine2:add_an_image_movie_sound_effect_or_music
 <br>https://www.youtube.com/watch?v=rkWkTJtK2dI&t=36s
 <br>https://www.youtube.com/watch?v=aBG8Z-Lvfd4
