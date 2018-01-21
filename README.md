@@ -31,6 +31,7 @@ Customize my Twine story in different aspects. It contains:
   <li>Add "Save" and "Continue" functions</li>
   <li>Add background sound effect</li>
   <li>Adjust the entire layout</li>
+  <li>Give 'Bookmark' a specific style</li>
   <li>Add title imgae on the Start Page</li>
   </ul>
   
@@ -74,6 +75,10 @@ However, I think this would disturb if I put any elements inside tw-sidebar. I m
   <br>Instead, I set the display property of tw-icon as none which could stop the default arrow icons appearing. I've considered that if I want to create some icons, I guess I may try to write a new elment to arrange them.
   <br>https://furkleindustries.com/fictions/twine/twine2_resources/twine2_CSS_tutorial/
   <br>The way I use for layout gives enough margin visually, but it also takes space that I want to use for pictures. I may need return back once I done the preparation of pictures.
+  
+  
+   <br><li><b>Give 'Bookmark' a specific style</b>
+  Firstly, I created new Bookmark saving slots on
 
   
   
