@@ -2,12 +2,19 @@
 
 Week1&2 Checkpoint
 
-This assignment contains:
-<ol>
+This repository contains:
+
+<ul>
+  <li>Updated Game file(.html page)</li>
+  
+
+<li>Supplementary docmentation:<ol>
 <li>Inquiry</li>
 <li>ResearchPlan</li>
 <li>Solution</li>
 <li>Expectation</li>
-</ol>
+</ol></li>
+
+</ul>
 
 Based on previous project "HelloThere" (an interactive fiction made by Twine2.0)
