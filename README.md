@@ -94,4 +94,5 @@ However, I think this would disturb if I put any elements inside tw-sidebar. I m
 
 <h3>Expectation</h3>
 Here are some potential inquiries for the next week.
+<br>http://lambdamaphone.blogspot.com/2015/02/using-twine-for-games-research-part-ii.html
 
